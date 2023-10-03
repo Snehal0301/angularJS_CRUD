@@ -10,6 +10,4 @@ export class CoreService {
   showToaster(message: string){  
     this.toastr.success(message)  
   } 
-
-  
 }
