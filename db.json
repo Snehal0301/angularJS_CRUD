@@ -1,0 +1,201 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employee": [
+    {
+      "firstName": "Mariana",
+      "lastName": "Halvorson",
+      "email": "your.email+fakedata39890@gmail.com",
+      "dob": "2024-08-26T02:15:37.000Z",
+      "gender": "others",
+      "education": "Graduate",
+      "company": "Langworth Group",
+      "experience": 92,
+      "package": 3,
+      "id": 2
+    },
+    {
+      "firstName": "Susan",
+      "lastName": "Adams",
+      "email": "your.email+fakedata74910@gmail.com",
+      "dob": "2023-10-24T17:12:55.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "Mann Group",
+      "experience": 665,
+      "package": 307,
+      "id": 3
+    },
+    {
+      "firstName": "Caden",
+      "lastName": "Marvin",
+      "email": "your.email+fakedata60604@gmail.com",
+      "dob": "2022-11-10T21:11:58.000Z",
+      "gender": "male",
+      "education": "Intermediate",
+      "company": "Grimes and Douglas",
+      "experience": 514,
+      "package": 183,
+      "id": 4
+    },
+    {
+      "firstName": "Claudine",
+      "lastName": "Corkery",
+      "email": "your.email+fakedata31814@gmail.com",
+      "dob": "2024-02-20T14:07:28.000Z",
+      "gender": "female",
+      "education": "Diploma",
+      "company": "Bergstrom - Schiller",
+      "experience": 305,
+      "package": 340,
+      "id": 6
+    },
+    {
+      "firstName": "Mariannaaaaa",
+      "lastName": "Halvorson",
+      "email": "your.email+fakedata39890@gmail.com",
+      "dob": "2024-08-26T02:15:37.000Z",
+      "gender": "others",
+      "education": "Graduate",
+      "company": "Langworth Group",
+      "experience": 92,
+      "package": 3,
+      "id": 9
+    },
+    {
+      "firstName": "Blaze",
+      "lastName": "Weimann",
+      "email": "your.email+fakedata32136@gmail.com",
+      "dob": "2023-04-02T09:34:39.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "Carroll - Cassin",
+      "experience": 283,
+      "package": 530,
+      "id": 10
+    },
+    {
+      "firstName": "Vernice",
+      "lastName": "Skiles",
+      "email": "your.email+fakedata39260@gmail.com",
+      "dob": "2023-05-18T23:32:17.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "McCullough Inc",
+      "experience": 375,
+      "package": 110,
+      "id": 11
+    },
+    {
+      "firstName": "Brice",
+      "lastName": "Hartmann",
+      "email": "your.email+fakedata81535@gmail.com",
+      "dob": "2023-10-08T22:04:33.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "McKenzie, Thompson and Upton",
+      "experience": 16,
+      "package": 306,
+      "id": 12
+    },
+    {
+      "firstName": "Nona",
+      "lastName": "Brakus",
+      "email": "your.email+fakedata95179@gmail.com",
+      "dob": "2024-06-27T14:46:42.000Z",
+      "gender": "female",
+      "education": "Matrix",
+      "company": "Jacobi - Kuhlman",
+      "experience": 29,
+      "package": 404,
+      "id": 13
+    },
+    {
+      "firstName": "Muriel",
+      "lastName": "Hyatt",
+      "email": "your.email+fakedata74918@gmail.com",
+      "dob": "2024-04-05T21:43:32.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "Glover Group",
+      "experience": 537,
+      "package": 126,
+      "id": 14
+    },
+    {
+      "firstName": "Trace",
+      "lastName": "Zemlak",
+      "email": "your.email+fakedata64681@gmail.com",
+      "dob": "2023-06-20T11:46:31.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "Littel - Shields",
+      "experience": 113,
+      "package": 142,
+      "id": 15
+    },
+    {
+      "firstName": "Princess",
+      "lastName": "Klocko",
+      "email": "your.email+fakedata63106@gmail.com",
+      "dob": "2023-04-14T06:11:34.000Z",
+      "gender": "male",
+      "education": "Intermediate",
+      "company": "Moen, Stroman and O'Kon",
+      "experience": 93,
+      "package": 290,
+      "id": 16
+    },
+    {
+      "firstName": "Rahsaan",
+      "lastName": "Daniel",
+      "email": "your.email+fakedata68785@gmail.com",
+      "dob": "2024-09-09T06:14:01.000Z",
+      "gender": "others",
+      "education": "Matrix",
+      "company": "Reichel and Sons",
+      "experience": 443,
+      "package": 576,
+      "id": 17
+    },
+    {
+      "firstName": "Kadin",
+      "lastName": "Schinner",
+      "email": "your.email+fakedata54048@gmail.com",
+      "dob": "2024-01-31T18:56:00.000Z",
+      "gender": "others",
+      "education": "Post Graduate",
+      "company": "Williamson, Kovacek and Daniel",
+      "experience": 280,
+      "package": 550,
+      "id": 18
+    },
+    {
+      "firstName": "Morton",
+      "lastName": "Spencer",
+      "email": "your.email+fakedata47549@gmail.com",
+      "dob": "2023-06-03T19:06:21.000Z",
+      "gender": "female",
+      "education": "Diploma",
+      "company": "Smith - Nienow",
+      "experience": 245,
+      "package": 263,
+      "id": 19
+    }
+  ]
+}
